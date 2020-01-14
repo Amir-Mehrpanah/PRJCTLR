@@ -1,2 +1,1 @@
-# ProjectEulerSolutions
-https://projecteuler.net/
+# THS RPSTR S PRVT
