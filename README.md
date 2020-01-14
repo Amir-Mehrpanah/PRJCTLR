@@ -1,0 +1,2 @@
+# ProjectEulerSolutions
+https://projecteuler.net/
