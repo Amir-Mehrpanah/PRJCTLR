@@ -1,5 +1,5 @@
 import numpy as np
-
+# recursive function turned out to be faster 
 
 def put_item(w, t, i):
     if w[0] not in i:
